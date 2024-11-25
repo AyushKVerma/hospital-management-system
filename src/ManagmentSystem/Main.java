@@ -34,7 +34,7 @@ public class Main {
                 System.out.println("3. Enter 3 to add a new doctor");
                 System.out.println("4. Enter 4 to view doctors");
                 System.out.println("5. Enter 5 to Book Appointments");
-                System.out.println("6. Enter 6 t0 view appointments");
+                System.out.println("6. Enter 6 to view appointments");
                 System.out.println("7. Exit");
                 System.out.println("Enter your choice:");
                 int choice = scanner.nextInt();
